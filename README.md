@@ -1,32 +1,28 @@
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> 🤷‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Web** na <a href="https://www.proempresa.inf.br">PróEmpresa</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Swift, NodeJs**.
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+- 🌱 &nbsp; Contato **felipe978@hotmail.com**
 
-**Aplicações e Dados**
+<h3> ⚡ &nbsp;Minhas Skills </h3>
 
+  ![Php](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![Jquery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-**DevOps**
-
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)<br>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Ferramentas de Desenvolvimento**
-
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-<br/>
+<h3> 💻 &nbsp;Redes Sociais </h3>
+
+<a href="https://www.linkedin.com/in/felipe-limadev/">![Linkedin](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 <!---
