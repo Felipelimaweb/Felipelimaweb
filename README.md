@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @felipe978
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end JavaScript (react)
-- 💞️ I’m looking to collaborate on front-end open source projects
-- 📫 How to reach me felipe978@hotmail.com
+- 👋 Olá, me chamo Felipe Lima, atuo como desenvolvedor Web e trabalho com tecnologia desde 2017
+- 📫 Contato: felipe978@hotmail.com
 
 <!---
 felipe978/felipe978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
