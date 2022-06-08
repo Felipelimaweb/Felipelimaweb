@@ -26,6 +26,6 @@
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipelimaweb&theme=dark&count_private=true&layout=compact&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipelimaweb&layout=compact&theme=dark" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipelimaweb&layout=compact&theme=dark&hide=vba,blade,plsql,shell,html&langs_count=6" align = "center"/>
 </p>
 
