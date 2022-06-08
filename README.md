@@ -2,7 +2,7 @@
 <h3> 🤷‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Web** na <a href="https://www.proempresa.inf.br">PróEmpresa</a>
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Web** na <a href="https://tradiobank.com.br">Tradio Bank</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Swift, NodeJs**.
 - 🌱 &nbsp; Contato **felipe978@hotmail.com**
 
@@ -25,9 +25,9 @@
 <a href="https://www.linkedin.com/in/felipe-limadev/">![Linkedin](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-<!---
-[![card](https://github-readme-stats.vercel.app/api?username=felipe978&theme=dark)](https://github.com/felipe978/)
-[![felipe978](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe978&hide=html&layout=compact&theme=dark)](https://github.com/felipe978/)
-felipe978/felipe978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![card](https://github-readme-stats.vercel.app/api?username=Felipelimaweb&theme=dark&count_private=true)](https://github.com/Felipelimaweb/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipelimaweb&layout=compact)](https://github.com/Felipelimaweb/github-readme-stats)
+Felipelimaweb/Felipelimaweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
