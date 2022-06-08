@@ -24,10 +24,8 @@
 
 <a href="https://www.linkedin.com/in/felipe-limadev/">![Linkedin](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-
-
-[![card](https://github-readme-stats.vercel.app/api?username=Felipelimaweb&theme=dark&count_private=true&layout=compact&show_icons=true)](https://github.com/Felipelimaweb/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipelimaweb&layout=compact&theme=dark)](https://github.com/Felipelimaweb/github-readme-stats)
-Felipelimaweb/Felipelimaweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipelimaweb&theme=dark&count_private=true&layout=compact&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipelimaweb&layout=compact&theme=dark" align = "center"/>
+</p>
 
