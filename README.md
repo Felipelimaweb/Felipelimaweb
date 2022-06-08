@@ -26,8 +26,8 @@
 
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=Felipelimaweb&theme=dark&count_private=true)](https://github.com/Felipelimaweb/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipelimaweb&layout=compact)](https://github.com/Felipelimaweb/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=Felipelimaweb&theme=dark&count_private=true&layout=compact)](https://github.com/Felipelimaweb/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipelimaweb&layout=compact&theme=dark)](https://github.com/Felipelimaweb/github-readme-stats)
 Felipelimaweb/Felipelimaweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
