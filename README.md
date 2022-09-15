@@ -2,8 +2,8 @@
 <h3> 🤷‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Web** na <a href="https://tradiobank.com.br">PróEmpresa</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Swift, NodeJs**.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Web** na PróEmpresa
+- 🌱 &nbsp; Aprendendo mais sobre **ReactJs, NodeJs**.
 - 🌱 &nbsp; Contato **felipe978@hotmail.com**
 
 <h3> ⚡ &nbsp;Minhas Skills </h3>
