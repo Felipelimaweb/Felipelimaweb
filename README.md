@@ -2,7 +2,7 @@
 <h3> 🤷‍♂️ &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor Web** na PróEmpresa
+- 💼 &nbsp; Trabalhando como **Desenvolvedor Web** na Hoogli
 - 🌱 &nbsp; Aprendendo mais sobre **ReactJs, NodeJs**.
 - 🌱 &nbsp; Contato **felipe978@hotmail.com**
 
